@@ -9,9 +9,9 @@ This project provides a structured analysis of Amazon sales data using Excel. It
 
 ## Steps in the Analysis Process
 ## 1- Data Cleaning and Preparation:
-       Removed any empty or irrelevant rows.
-       Standardized date formats, ensuring consistency for time-based analysis.
-       Verified numeric values in the Units, Price, and Total Sales columns to ensure data integrity.
+       - Removed any empty or irrelevant rows.
+       - Standardized date formats, ensuring consistency for time-based analysis.
+       - Verified numeric values in the Units, Price, and Total Sales columns to ensure data integrity.
 ## 2- Exploratory Data Analysis (EDA):
       Examined distribution across dimensions such as Region, Product, and SalesRep.
       Used pivot tables to group and summarize data, providing quick insights on product popularity and regional performance.
