@@ -1,6 +1,8 @@
 # Sales Data Analysis with Excel
 ## Project Overview
 This project provides a structured analysis of Amazon sales data using Excel. It investigates sales performance across various dimensions, including product popularity, sales representative effectiveness, and regional sales distribution. The objective is to gain insights into key performance areas, identify trends, and provide recommendations for achieving sales targets.
+## Dataset Used :- 
+-<a href =" https://github.com/Sjag8/Sales-Data-Analysis-with-Excel/blob/main/Sales%20Data.xlsx">Dataset </a>
 
 ## Project Structure
    1- Sales Data (Sales Data sheet): Raw dataset containing detailed records of sales transactions, such as date, product, sales rep, units sold, price, and location.
